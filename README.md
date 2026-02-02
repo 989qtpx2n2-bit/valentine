@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>I’m Sorry 🤍</title>
+  <h1>I’m really sorry, <span class="name">Sirjan</span> 🤍</h1>
   <style>
     body {
       font-family: "Poppins", Arial, sans-serif;
